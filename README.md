@@ -1,5 +1,9 @@
 <body>
-  
+  <div>
+    <img src="/banner.png"/>
+  </div>
+  <br>
+  <h3>Technology stack</h3>
   <div align="center">
     <img src="/jsp.png" />
     <img src="/htmlp.png" />
