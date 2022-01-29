@@ -1,6 +1,6 @@
 <body>
   <div>
-    <img src="/banner.png"/>
+    <img src="banner_.png"/>
   </div>
   <h1>ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴛᴀᴄᴋ <img src="tech.png"/></h1>
   <div align="center">
