@@ -53,7 +53,7 @@
     <li>Fluency in English B1 level</li>
     <li>ᴡᴏʀᴋ → ʟᴇᴀʀɴɪɴɢ → ᴄᴏᴅɪɴɢ → ʀᴇᴘᴇᴀᴛ ⟲</li>
   </ul>
-  
-  
+  <hr>
+  <img src="ezgif.com-gif-maker.gif"/>
 
 </body>
