@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-Chrome-001749?style=for-the-badge&logo=googlechrome"/>
   </div>
   <div>
-    <h4>I've been working for the last time:</h4>
+    <h4>I've been working lately:</h4>
     <img src="https://img.shields.io/badge/-Nodejs-001749?style=for-the-badge&logo=node.js"/>
     <img src="https://img.shields.io/badge/-Extjs4-001749?style=for-the-badge&logo=sencha"/>
     <img src="https://img.shields.io/badge/-Mongodb-001749?style=for-the-badge&logo=mongodb"/>
