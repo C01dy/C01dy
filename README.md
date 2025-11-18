@@ -95,4 +95,13 @@
 - **Task Decomposition:** Breaking down complex tasks into smaller, manageable parts.
 
 
+---
+
+<h3 align="left">📊 My GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=C01dy&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
+  <br/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=C01dy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
