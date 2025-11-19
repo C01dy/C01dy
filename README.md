@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/QsAwVEv.gif" alt="Pixel art winter scene"/>
-</p>
+</p> -->
 
 <h1 align="center">Hey there, I'am Vlad</h1>
 <h3 align="center">Backend developer from Novocherkassk</h3>
